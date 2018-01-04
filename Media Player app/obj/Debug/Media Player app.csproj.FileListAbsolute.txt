@@ -1,0 +1,13 @@
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\bin\Debug\Media Player app.exe.config
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\bin\Debug\Media Player app.exe
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\bin\Debug\Media Player app.pdb
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media Player app.csprojResolveAssemblyReference.cache
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\MainWindow.baml
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\MainWindow.g.cs
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\App.g.cs
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media Player app_MarkupCompile.cache
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media Player app.g.resources
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media_Player_app.Properties.Resources.resources
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media Player app.csproj.GenerateResource.Cache
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media Player app.exe
+c:\users\ivan evanc\documents\visual studio 2012\Projects\Media Player app\Media Player app\obj\Debug\Media Player app.pdb
